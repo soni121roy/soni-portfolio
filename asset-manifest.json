@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/soni-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/soni-portfolio/static/js/main.fc453073.js",
+    "static/js/453.6a44dda7.chunk.js": "/soni-portfolio/static/js/453.6a44dda7.chunk.js",
+    "static/media/profile.jpg": "/soni-portfolio/static/media/profile.6122c0ed4c7f91a36d09.jpg",
+    "index.html": "/soni-portfolio/index.html",
+    "main.f855e6bc.css.map": "/soni-portfolio/static/css/main.f855e6bc.css.map",
+    "main.fc453073.js.map": "/soni-portfolio/static/js/main.fc453073.js.map",
+    "453.6a44dda7.chunk.js.map": "/soni-portfolio/static/js/453.6a44dda7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fc453073.js"
+  ]
+}
