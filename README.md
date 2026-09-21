@@ -1,6 +1,6 @@
-# 👩‍💻 Soni Kumari - Portfolio
+# 👩‍💻 Soni Roy- Portfolio
 
-Hi, I'm Soni Kumari — BCA graduate and aspiring Software Developer passionate about Java, Web Development & Frontend.
+Hi, I'm Soni ROY — BTECH CSE 3RD YEAR Student and aspiring Software Developer passionate about Java, Web Development & Frontend.
 
 🌐 **Live Demo:** https://soni121roy.github.io/soni-portfolio/
 
