@@ -1,22 +1,28 @@
-# Soni Roy - Portfolio
+# 👩‍💻 Soni Kumari - Portfolio
 
-Professional Portfolio Website - Full Stack Developer (MERN) | FinTech & Core Banking Systems
+Hi, I'm Soni Kumari — BCA graduate and aspiring Software Developer passionate about Java, Web Development & Frontend.
 
-### 💻 Tech Stack
-- **Frontend:** React.js, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Other:** Git, GitHub, REST APIs
+🌐 **Live Demo:** https://soni121roy.github.io/soni-portfolio/
+
+### 🚀 About This Project
+This is my personal portfolio website where I showcase my skills, projects, certifications and contact info.
+
+### 🛠️ Technologies Used
+- React.js
+- JavaScript (ES6+)
+- HTML5, CSS3
+- GitHub Pages for deployment
 
 ### ✨ Features
-- Responsive Design
-- Professional Profile Section
-- Projects Showcase
-- Skills & Experience
-- Contact Form
+- Fully Responsive Design
+- Clean & Modern UI
+- Projects Showcase Section
+- Contact Section
 
-### 📦 How to Run Locally
+### 📂 How to Run Locally
 ```bash
 cd client
 npm install
 npm start
+
+Author: SONI ROY
